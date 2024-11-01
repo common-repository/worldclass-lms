@@ -1,0 +1,11 @@
+.wc-admin-table tr td:first-child {
+	max-width: 100px;
+}
+
+.wc-admin-table .description {
+	font-size: 12px;
+}
+
+.wc-admin-school-wrapper ul {
+	list-style: disc inside;
+}
